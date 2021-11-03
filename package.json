@@ -1,12 +1,19 @@
 {
-    "name": "@ezekiel-da/my-tool",
-    "version": "1.0.2",
-    "description": "",
-    "bin": {
-        "my-tool": "./my-tool.js"
-    },
-    "scripts": {
-        "test": "exit 0"
-    },
-    "license": "UNLICENSED"
+  "name": "npm8repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "repro.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ezekiel-DA/npm8_bin_issue_repro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ezekiel-DA/npm8_bin_issue_repro/issues"
+  },
+  "homepage": "https://github.com/Ezekiel-DA/npm8_bin_issue_repro#readme"
 }
