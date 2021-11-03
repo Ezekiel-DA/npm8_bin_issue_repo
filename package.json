@@ -1,0 +1,12 @@
+{
+    "name": "@tools/my-tool",
+    "version": "1.0.0",
+    "description": "",
+    "bin": {
+        "my-tool": "./my-tool.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "license": "UNLICENSED"
+}
