@@ -1,8 +1,11 @@
 {
-  "name": "npm8repro",
+  "name": "@ezekiel-da/npm8_bin_issue_repro",
   "version": "1.0.0",
   "description": "",
   "main": "repro.js",
+  "bin": {
+    "npm8_bin_issue_repro": "./repro.js"
+  },
   "scripts": {
     "test": "exit 0"
   },
